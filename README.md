@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **fullstack projects**
 
-- 💬 Ask me about **Html%,Css3,JavaScript,Java,Spring,SpringBoot,Angular,Devops tools, Software testing tools**
+- 💬 Ask me about **Html5,Css3,JavaScript,Java,Spring,SpringBoot,Angular,Devops tools, Software testing tools**
 
 - 📫 How to reach me **ysharsha.te@gmail.com**
 
